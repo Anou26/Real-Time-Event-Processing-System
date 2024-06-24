@@ -1,0 +1,3 @@
+azure-eventhub
+pyspark
+fastavro
